@@ -2,7 +2,7 @@
 
 这份机场推荐清单把 34 家机场的起步价、线路类型、优惠码放在一张表里，方便先比较再购买。完整测评和选购方法在 [买机场](https://maijichang.com/)。
 
-> 价格核对日期：2026-11-01，实际以官网为准。排名由编辑决定，含推广合作。其中“官网”链接为推广链接。
+> 价格核对日期：2026-11-01，实际以官网为准。排名由编辑决定，含推广合作。
 
 ## 2026 机场推荐前 3 名
 
@@ -10,50 +10,50 @@
 
 | 名次 | 机场 | 线路 | 起步价 | 优惠码 | 链接 |
 | --- | --- | --- | --- | --- | --- |
-| 1 | **sogo云** | IPLC | ¥98/年 | `sogo10000` | [测评](https://maijichang.com/reviews/sogoyun/) · [官网](https://maijichang.com/go/sogoyun/) |
-| 2 | **暮光** | BGP | ¥20/月 | `mm88` | [测评](https://maijichang.com/reviews/muguang/) · [官网](https://maijichang.com/go/muguang/) |
-| 3 | **大佬云** | IEPL | ¥96/年 | `dly888` | [测评](https://maijichang.com/reviews/dalaoyun/) · [官网](https://maijichang.com/go/dalaoyun/) |
+| 1 | **sogo云** | IEPL / IPLC | ¥98/年 | `sogo10000` | [测评](https://maijichang.com/reviews/sogoyun/) |
+| 2 | **暮光** | BGP | ¥20/月 | `mm88` | [测评](https://maijichang.com/reviews/muguang/) |
+| 3 | **大佬云** | IEPL | ¥96/年 | `dly888` | [测评](https://maijichang.com/reviews/dalaoyun/) |
 
 ## 34 家机场排行榜
 
 下表按本站排名排列，月均是最低月均价。线路类型来自各家公开资料，实际体验建议先小额试用。
 
-| 名次 | 机场 | 线路 | 起步价 | 月均 | 优惠码 | 评分 | 链接 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | [sogo云](https://maijichang.com/reviews/sogoyun/) | IPLC | ¥98/年 | ¥8.2/月起 | `sogo10000` | 9.8 | [官网](https://maijichang.com/go/sogoyun/) |
-| 2 | [暮光](https://maijichang.com/reviews/muguang/) | BGP | ¥20/月 | ¥9.1/月起 | `mm88` | 9.6 | [官网](https://maijichang.com/go/muguang/) |
-| 3 | [大佬云](https://maijichang.com/reviews/dalaoyun/) | IEPL | ¥96/年 | ¥8/月起 | `dly888` | 9.5 | [官网](https://maijichang.com/go/dalaoyun/) |
-| 4 | [飞猫云](https://maijichang.com/reviews/feimaoyun/) | IPLC | ¥84/年 | ¥7/月起 | `flycat888` | 9.4 | [官网](https://maijichang.com/go/feimaoyun/) |
-| 5 | [微风](https://maijichang.com/reviews/weifeng/) | IPLC | ¥137/年 | ¥11.4/月起 | `weifeng90` | 9.3 | [官网](https://maijichang.com/go/weifeng/) |
-| 6 | [宇宙云](https://maijichang.com/reviews/yuzhouyun/) | IPLC / IEPL | ¥96/年 | ¥8/月起 | `YUZHOU553` | 9.2 | [官网](https://maijichang.com/go/yuzhouyun/) |
-| 7 | [二猫云](https://maijichang.com/reviews/ermaoyun/) | IEPL | ¥99/一次性 | ¥7.4/月起 | `ermao888` | 9.1 | [官网](https://maijichang.com/go/ermaoyun/) |
-| 8 | [Firefly](https://maijichang.com/reviews/firefly/) | IPLC | ¥96/年 | ¥8/月起 | `firefly` | 9.0 | [官网](https://maijichang.com/go/firefly/) |
-| 9 | [飞V](https://maijichang.com/reviews/feiv/) | IEPL / IPLC / BGP | ¥99/年 | ¥8.3/月起 | `fly20` | 8.9 | [官网](https://maijichang.com/go/feiv/) |
-| 10 | [光速云](https://maijichang.com/reviews/guangsuyun/) | IPLC | ¥99/年 | ¥8.3/月起 | `AMM` | 8.8 | [官网](https://maijichang.com/go/guangsuyun/) |
-| 11 | [星岛梦](https://maijichang.com/reviews/xingdaomeng/) | IPLC | ¥96/年 | ¥8/月起 | `nmw888` | 8.7 | [官网](https://maijichang.com/go/xingdaomeng/) |
-| 12 | [无忧](https://maijichang.com/reviews/wuyou/) | IPLC | ¥79/年 | ¥6.6/月起 | `wuyou` | 8.6 | [官网](https://maijichang.com/go/wuyou/) |
-| 13 | [一翻云](https://maijichang.com/reviews/yifanyun/) | IEPL | ¥20/月 | ¥8.2/月起 | `1FLYYUN` | 8.5 | [官网](https://maijichang.com/go/yifanyun/) |
-| 14 | [极连云](https://maijichang.com/reviews/jilianyun/) | IPLC | ¥96/年 | ¥8/月起 | `JLY888` | 8.5 | [官网](https://maijichang.com/go/jilianyun/) |
-| 15 | [可信云](https://maijichang.com/reviews/kexinyun/) | IEPL | ¥96/年 | ¥8/月起 | `kxy80` | 8.4 | [官网](https://maijichang.com/go/kexinyun/) |
-| 16 | [灵猫](https://maijichang.com/reviews/lingmao/) | IPLC | ¥85/年 | ¥7.1/月起 | `LM80` | 8.4 | [官网](https://maijichang.com/go/lingmao/) |
-| 17 | [闪跃](https://maijichang.com/reviews/shanyue/) | IPLC | ¥96/年 | ¥8/月起 | `shanyue` | 8.3 | [官网](https://maijichang.com/go/shanyue/) |
-| 18 | [唯兔云](https://maijichang.com/reviews/weituyun/) | IPLC / IEPL | ¥120/年 | ¥6.7/月起 | `rabbit` | 8.3 | [官网](https://maijichang.com/go/weituyun/) |
-| 19 | [快狸](https://maijichang.com/reviews/kuaili/) | IEPL | ¥120/年 | ¥10/月起 | `kuaili996` | 8.2 | [官网](https://maijichang.com/go/kuaili/) |
-| 20 | [全球云](https://maijichang.com/reviews/quanqiuyun/) | BGP | ¥100/一次性 | ¥8.3/月起 | `qq88` | 8.2 | [官网](https://maijichang.com/go/quanqiuyun/) |
-| 21 | [灵动](https://maijichang.com/reviews/lingdong/) | BGP | ¥20/月 | ¥8.3/月起 | `zq88` | 8.1 | [官网](https://maijichang.com/go/lingdong/) |
-| 22 | [速界](https://maijichang.com/reviews/sujie/) | IPLC | ¥15/月 | ¥7.5/月起 | `xf888` | 8.1 | [官网](https://maijichang.com/go/sujie/) |
-| 23 | [u1s1](https://maijichang.com/reviews/u1s1/) | IEPL / BGP | ¥96/年 | ¥8/月起 | `U1S1` | 8.0 | [官网](https://maijichang.com/go/u1s1/) |
-| 24 | [光年梯](https://maijichang.com/reviews/guangnianti/) | IPLC | ¥89/年 | ¥7.4/月起 | `年付 8 折 / 3 年 6 折` | 8.0 | [官网](https://maijichang.com/go/guangnianti/) |
-| 25 | [跨界](https://maijichang.com/reviews/kuajie/) | IPLC | ¥96/年 | ¥8/月起 | `kuajie` | 7.9 | [官网](https://maijichang.com/go/kuajie/) |
-| 26 | [神行加速](https://maijichang.com/reviews/shenxing/) | IEPL / IPLC | ¥96/年 | ¥8/月起 | `sx0077` | 7.9 | [官网](https://maijichang.com/go/shenxing/) |
-| 27 | [榴莲云](https://maijichang.com/reviews/liulianyun/) | IPLC | ¥96/年 | ¥8/月起 | `ll88` | 7.8 | [官网](https://maijichang.com/go/liulianyun/) |
-| 28 | [EdgeNova](https://maijichang.com/reviews/edgenova/) | IPLC | ¥15/月 | ¥9/月起 | `xk808` | 7.8 | [官网](https://maijichang.com/go/edgenova/) |
-| 29 | [浪网](https://maijichang.com/reviews/langwang/) | IEPL / IPLC / BGP | ¥30/月 | ¥9.9/月起 | `lw888` | 7.7 | [官网](https://maijichang.com/go/langwang/) |
-| 30 | [云界线](https://maijichang.com/reviews/yunjiexian/) | IPLC | ¥96/年 | ¥8/月起 | `yjx888` | 7.7 | [官网](https://maijichang.com/go/yunjiexian/) |
-| 31 | [闪电鼠](https://maijichang.com/reviews/shandianshu/) | IEPL | ¥96/年 | ¥8/月起 | `sd88` | 7.6 | [官网](https://maijichang.com/go/shandianshu/) |
-| 32 | [梯子云](https://maijichang.com/reviews/tiziyun/) | IEPL | ¥25/月 | ¥7.4/月起 | `2hy80` | 7.6 | [官网](https://maijichang.com/go/tiziyun/) |
-| 33 | [环球梯](https://maijichang.com/reviews/huanqiuti/) | 专线 | ¥96/年 | ¥8/月起 | `HQ66` | 7.5 | [官网](https://maijichang.com/go/huanqiuti/) |
-| 34 | [隐形人](https://maijichang.com/reviews/yingxingren/) | BGP | ¥24/月 | ¥9.1/月起 | `yxr888` | 7.5 | [官网](https://maijichang.com/go/yingxingren/) |
+| 名次 | 机场 | 线路 | 起步价 | 月均 | 优惠码 | 评分 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | [sogo云](https://maijichang.com/reviews/sogoyun/) | IEPL / IPLC | ¥98/年 | ¥8.2/月起 | `sogo10000` | 9.8 |
+| 2 | [暮光](https://maijichang.com/reviews/muguang/) | BGP | ¥20/月 | ¥9.1/月起 | `mm88` | 9.6 |
+| 3 | [大佬云](https://maijichang.com/reviews/dalaoyun/) | IEPL | ¥96/年 | ¥8/月起 | `dly888` | 9.5 |
+| 4 | [飞猫云](https://maijichang.com/reviews/feimaoyun/) | IPLC | ¥84/年 | ¥7/月起 | `flycat888` | 9.4 |
+| 5 | [微风](https://maijichang.com/reviews/weifeng/) | IPLC | ¥137/年 | ¥11.4/月起 | `weifeng90` | 9.3 |
+| 6 | [宇宙云](https://maijichang.com/reviews/yuzhouyun/) | IPLC / IEPL | ¥96/年 | ¥8/月起 | `YUZHOU553` | 9.2 |
+| 7 | [二猫云](https://maijichang.com/reviews/ermaoyun/) | IEPL | ¥99/一次性 | ¥7.4/月起 | `ermao888` | 9.1 |
+| 8 | [Firefly](https://maijichang.com/reviews/firefly/) | IPLC | ¥96/年 | ¥8/月起 | `firefly` | 9.0 |
+| 9 | [飞V](https://maijichang.com/reviews/feiv/) | IEPL / IPLC / BGP | ¥99/年 | ¥8.3/月起 | `fly20` | 8.9 |
+| 10 | [光速云](https://maijichang.com/reviews/guangsuyun/) | IPLC | ¥99/年 | ¥8.3/月起 | `AMM` | 8.8 |
+| 11 | [星岛梦](https://maijichang.com/reviews/xingdaomeng/) | IPLC | ¥96/年 | ¥8/月起 | `nmw888` | 8.7 |
+| 12 | [无忧](https://maijichang.com/reviews/wuyou/) | IPLC | ¥79/年 | ¥6.6/月起 | `wuyou` | 8.6 |
+| 13 | [一翻云](https://maijichang.com/reviews/yifanyun/) | IEPL | ¥20/月 | ¥8.2/月起 | `1FLYYUN` | 8.5 |
+| 14 | [极连云](https://maijichang.com/reviews/jilianyun/) | IPLC | ¥96/年 | ¥8/月起 | `JLY888` | 8.5 |
+| 15 | [可信云](https://maijichang.com/reviews/kexinyun/) | IEPL | ¥96/年 | ¥8/月起 | `kxy80` | 8.4 |
+| 16 | [灵猫](https://maijichang.com/reviews/lingmao/) | IPLC | ¥85/年 | ¥7.1/月起 | `LM80` | 8.4 |
+| 17 | [闪跃](https://maijichang.com/reviews/shanyue/) | IPLC | ¥96/年 | ¥8/月起 | `shanyue` | 8.3 |
+| 18 | [唯兔云](https://maijichang.com/reviews/weituyun/) | IPLC / IEPL | ¥120/年 | ¥6.7/月起 | `rabbit` | 8.3 |
+| 19 | [快狸](https://maijichang.com/reviews/kuaili/) | IEPL | ¥120/年 | ¥10/月起 | `kuaili996` | 8.2 |
+| 20 | [全球云](https://maijichang.com/reviews/quanqiuyun/) | BGP | ¥100/一次性 | ¥8.3/月起 | `qq88` | 8.2 |
+| 21 | [灵动](https://maijichang.com/reviews/lingdong/) | BGP | ¥20/月 | ¥8.3/月起 | `zq88` | 8.1 |
+| 22 | [速界](https://maijichang.com/reviews/sujie/) | IPLC | ¥15/月 | ¥7.5/月起 | `xf888` | 8.1 |
+| 23 | [u1s1](https://maijichang.com/reviews/u1s1/) | IEPL / BGP | ¥96/年 | ¥8/月起 | `U1S1` | 8.0 |
+| 24 | [光年梯](https://maijichang.com/reviews/guangnianti/) | IPLC | ¥89/年 | ¥7.4/月起 | `年付 8 折 / 3 年 6 折` | 8.0 |
+| 25 | [跨界](https://maijichang.com/reviews/kuajie/) | IPLC | ¥96/年 | ¥8/月起 | `kuajie` | 7.9 |
+| 26 | [神行加速](https://maijichang.com/reviews/shenxing/) | IEPL / IPLC | ¥96/年 | ¥8/月起 | `sx0077` | 7.9 |
+| 27 | [榴莲云](https://maijichang.com/reviews/liulianyun/) | IPLC | ¥96/年 | ¥8/月起 | `ll88` | 7.8 |
+| 28 | [EdgeNova](https://maijichang.com/reviews/edgenova/) | IPLC | ¥15/月 | ¥9/月起 | `xk808` | 7.8 |
+| 29 | [浪网](https://maijichang.com/reviews/langwang/) | IEPL / IPLC / BGP | ¥30/月 | ¥9.9/月起 | `lw888` | 7.7 |
+| 30 | [云界线](https://maijichang.com/reviews/yunjiexian/) | IPLC | ¥96/年 | ¥8/月起 | `yjx888` | 7.7 |
+| 31 | [闪电鼠](https://maijichang.com/reviews/shandianshu/) | IEPL | ¥96/年 | ¥8/月起 | `sd88` | 7.6 |
+| 32 | [梯子云](https://maijichang.com/reviews/tiziyun/) | IEPL | ¥25/月 | ¥7.4/月起 | `2hy80` | 7.6 |
+| 33 | [环球梯](https://maijichang.com/reviews/huanqiuti/) | 专线 | ¥96/年 | ¥8/月起 | `HQ66` | 7.5 |
+| 34 | [隐形人](https://maijichang.com/reviews/yingxingren/) | BGP | ¥24/月 | ¥9.1/月起 | `yxr888` | 7.5 |
 
 评分方法见[测评方法](https://maijichang.com/methodology/)。
 
